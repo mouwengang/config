@@ -5,4 +5,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 from: from aaaaaaaaaaaaa mesage !
 spring.userName: zhangqh
-spring.password: 1232222
+spring.password: 123333
