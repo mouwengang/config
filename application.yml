@@ -3,6 +3,6 @@ eureka:
     serviceUrl:
       #defaultZone: http://eureka-1:8761/eureka/,http://eureka-2:8762/eureka/
       defaultZone: http://localhost:8761/eureka/
-from: from aaaaaaaaaaaaa mesage !
+from: from git mesage !
 spring.userName: zhangqh
 spring.password: 1234444
